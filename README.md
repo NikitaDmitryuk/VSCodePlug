@@ -13,3 +13,6 @@
 - emmanuelbeziat.vscode-great-icons
 - mhutchie.git-graph
 - aaron-bond.better-comments
+- alefragnani.Bookmarks
+- CoenraadS.bracket-pair-colorizer-2
+- oderwat.indent-rainbow
