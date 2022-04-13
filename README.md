@@ -12,3 +12,4 @@
 - akamud.vscode-theme-onedark
 - emmanuelbeziat.vscode-great-icons
 - mhutchie.git-graph
+- aaron-bond.better-comments
